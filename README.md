@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 An Information Systems Undergraduate Student
-- 📫 Reach me via email: <a href="mailto:me@faustinaodeta.com">me@faustinaodeta.com<a/>
+- 📫 Reach me via email: <a href="mailto:me@faustinaodeta@gmail.com">me@faustinaodeta@gmail.com<a/>
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaodetaa&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
