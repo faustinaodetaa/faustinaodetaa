@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 An Information Systems Undergraduate Student
 - 📫 Reach me via email: **faustinaodeta@gmail.com**
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaodetaa&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaodetaa&theme=city_lights&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
